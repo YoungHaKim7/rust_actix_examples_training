@@ -1,7 +1,8 @@
 [workspace]
 members = [
     "examples/a01_tutorial01",
-    "examples/a02_application"
+    "examples/a02_application",
+    "examples/a03_hello-world_actix"
 ]
 
 resolver = "2"
