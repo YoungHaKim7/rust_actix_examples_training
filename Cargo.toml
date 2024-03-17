@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "examples/a01_tutorial01",
+    "examples/a02_application"
+]
+
+resolver = "2"
